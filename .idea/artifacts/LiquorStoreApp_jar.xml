@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LiquorStoreApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LiquorStoreApp_jar</output-path>
+    <root id="archive" name="LiquorStoreApp.jar">
+      <element id="module-output" name="LiquorStoreApp" />
+      <element id="module-test-output" name="LiquorStoreApp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
